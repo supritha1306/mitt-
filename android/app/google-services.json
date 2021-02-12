@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972522273423",
+    "project_id": "mitt-728a1",
+    "storage_bucket": "mitt-728a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972522273423:android:82cb4f2df3e6f40a88cefa",
+        "android_client_info": {
+          "package_name": "com.mitt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972522273423-1bqkq08b1h153m0k61p0rifnpa4laqfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mitt",
+            "certificate_hash": "3330c68c68b711001b7db7928284feb04de0a337"
+          }
+        },
+        {
+          "client_id": "972522273423-hs92130757j584q23k3pbif9idlkmu6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbS26oXYYGEQSjSjkAtUprYOeaUBOZLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972522273423-hs92130757j584q23k3pbif9idlkmu6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
